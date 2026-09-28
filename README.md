@@ -2,10 +2,7 @@
 
 This repository contains my personal portfolio website created using HTML. The website introduces my profile, technical skills, projects, and contact information.
 
-## Website Preview
 
-```markdown
-   ![Website Preview](preview.png)
 
 ## About Me
 

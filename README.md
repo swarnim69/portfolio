@@ -4,7 +4,8 @@ This repository contains my personal portfolio website created using HTML. The w
 
 ## Website Preview
 
-> *Add a screenshot of your finished portfolio here later by uploading it to your repository and linking it!*
+```markdown
+   ![Website Preview](preview.png)
 
 ## About Me
 

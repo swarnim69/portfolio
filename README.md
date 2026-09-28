@@ -2,7 +2,9 @@
 
 This repository contains my personal portfolio website created using HTML. The website introduces my profile, technical skills, projects, and contact information.
 
+## Website Preview
 
+![Website Preview](preview.png)
 
 ## About Me
 
@@ -16,7 +18,7 @@ I am an Information Technology student from Nepal. I am interested in web develo
 * **SQL** – Used for managing and working with databases.
 * **Cybersecurity** – Learning network and security concepts.
 
-## My Projects
+## Projects
 
 * **Banking System** – A simple banking system created using C.
 * **Quiz Game** – A simple quiz game created as a programming project.

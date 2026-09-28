@@ -4,7 +4,7 @@ This repository contains my personal portfolio website created using HTML. The w
 
 ## Website Preview
 
-![Website Preview](preview.png)
+![Website Preview](image.png)
 
 ## About Me
 
